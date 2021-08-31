@@ -31,7 +31,7 @@ Hi,I'm Zion Gonet🙌, an undergraduate engineer and a Web Developer. ❤✌
 
 
 **Community**
-- Google Developer Group Bengaluru
+- Google Developer Group 
 
 
 **Languages and Tools:**
