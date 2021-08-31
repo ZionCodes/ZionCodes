@@ -14,7 +14,7 @@
 
 <br />
 
-Hi,I'm Zion Gonet🙌, an undergraduate Mechanical engineer and a Web Developer. ❤✌
+Hi,I'm Zion Gonet🙌, an undergraduate engineer and a Web Developer. ❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
