@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Zion!](https:///)
+### Hello World 👋 It's [Zion!](https://zioncodes.github.io)
 
 <br/>
 
@@ -26,7 +26,7 @@ Hi,I'm Zion Gonet🙌, an undergraduate engineer and a Web Developer. ❤✌
 - 🌱 I’m currently learning React.
 - 👯 Looking to collaborate on projects.
 - 🧑🏿‍🎓 Currently studying Mechanical Engineering
-- 📝[Portfolio](https://)
+- 📝[Portfolio](https://zioncodes.github.io)
 
 
 
@@ -45,4 +45,3 @@ Hi,I'm Zion Gonet🙌, an undergraduate engineer and a Web Developer. ❤✌
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
-![Zion's github stats]()
