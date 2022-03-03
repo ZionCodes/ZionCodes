@@ -14,7 +14,7 @@
 
 <br />
 
-Hi,I'm Zion Gonet🙌, an undergraduate engineer and a Web Developer. ❤✌
+
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -25,7 +25,6 @@ Hi,I'm Zion Gonet🙌, an undergraduate engineer and a Web Developer. ❤✌
 - 🔭 I’m currently learning software development.
 - 🌱 I’m currently learning React.
 - 👯 Looking to collaborate on projects.
-- 🧑🏿‍🎓 Currently studying Mechanical Engineering at Federal University Of Technology, Minna. 🇳🇬
 - 📝[Portfolio](https://zioncodes.github.io)
 
 
