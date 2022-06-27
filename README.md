@@ -7,7 +7,6 @@
 - 🌱 &nbsp; I’m currently learning Python and data engineering.
 - 👯‍♂️ &nbsp; I’m looking to collaborate on Projects
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
