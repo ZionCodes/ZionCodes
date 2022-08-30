@@ -4,7 +4,7 @@
 
 - 👨 &nbsp; I'm on a journey to be a software developer.
 - 👨🏻‍💻 &nbsp; Exploring new technologies and building my skills.
-- 🌱 &nbsp; I’m currently learning Python and data engineering.
+- 🌱 &nbsp; I’m currently learning Python and Javascript.
 - 👯‍♂️ &nbsp; I’m looking to collaborate on Projects
 
 
